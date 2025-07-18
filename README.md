@@ -7,7 +7,7 @@ Welcome to my coding corner on GitHub! I'm passionate about building clean, crea
 🎯 Currently learning: React, C#, SQL, and how to stop pushing directly to main.😅 <br />
 💡 Things I have been enjoying: Solving problems, learning new technologies, and making apps that actually do stuff. <br />
 🧩 Fun fact: I see bugs as tiny puzzles sent from the universe to make me smarter. Challenge accepted! <br />
-
+<br />
 #
 
 ### 💻 Tech Stack:
@@ -30,6 +30,7 @@ Welcome to my coding corner on GitHub! I'm passionate about building clean, crea
 <img align="left" alt="Trello" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/trello/plain.svg"></img>
 <br />
 #
+<br />
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SeratiVilankulu&theme=default&hide_border=false&include_all_commits=false&count_private=false)
@@ -38,5 +39,13 @@ Welcome to my coding corner on GitHub! I'm passionate about building clean, crea
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SeratiVilankulu&icon=0&color=0)](https://visitcount.itsvg.in)
+#
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
